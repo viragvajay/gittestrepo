@@ -1,3 +1,8 @@
+.banner_container {
+    display: flex;
+    max-height: 640px;
+    position: absolute;
+}
 
 .Name {
     background-color: #dffc00;
@@ -7,5 +12,12 @@
 
 .paragraph {
    color: #939344;
+
+}
+
+.image {
+    width: 250px;
+    transform: rotate(90deg);
+    margin: 100px;
 }
 
